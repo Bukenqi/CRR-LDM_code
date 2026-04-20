@@ -1,1 +1,17 @@
-pip install pyhdf netCDF4 xarray datetime pandas transbigdata geos pyproj basemap==1.4.0 seaborn matplotlib scipy scikit-image tqdm opencv-python vtk tensorflow==2.17
+pyhdf
+netCDF4
+xarray
+datetime
+pandas
+transbigdata
+geos
+pyproj
+basemap==1.4.0
+seaborn
+matplotlib
+scipy
+scikit-image
+tqdm
+opencv-python
+vtk
+tensorflow==2.17
