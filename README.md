@@ -183,3 +183,12 @@ If you use this code, please cite:
 
 
 ---
+
+
+## License
+
+This project is licensed under the Apache License 2.0.
+See the LICENSE file for details.
+attribution：
+Parts of the CRR-LDM implementation were adapted from the
+Keras Stable Diffusion example.
