@@ -34,9 +34,9 @@ This repository contains the code for the manuscript:
 
 * `Train_VAE.py`: training VAE
 
-* `Train_CRR_LDM_IR.py`: The model trained using all channels
+* `Train_CRR_LDM_IR.py`: training CRR-LDM-IR using AHI infrared channels 08–16 
 
-* `Train_CRR_LDM_Full.py`: The model trained using the long-wave infrared channel
+* `Train_CRR_LDM_Full.py`: training CRR-LDM-Full using all 16 AHI channels
 
 
 
